@@ -1,4 +1,4 @@
-## PROJECT TITLE
+## test project title
 
 These are copied from the release checklist ... create a :sparkles: example of a README for your teams to use when releasing new software as open source.
 
