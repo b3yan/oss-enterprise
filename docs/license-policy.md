@@ -1,9 +1,9 @@
 ## Open Source License Policy
-
+abcdefg
 ### Our Preferred Licenses
 
-- For software projects, we use xx
-- For documentation projects, we use yy
+- For software projects, we use abc
+- For documentation projects, we use def
 
 ### Acceptable Licenses
 
